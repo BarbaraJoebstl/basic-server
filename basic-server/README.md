@@ -46,17 +46,17 @@ This directory contains some simple unit functions (`units.ts`) and correspondin
 
 ***
 # Tasks
-1. @TODO `./src/server.ts/`
+1. `./src/server.ts/`
 Add an endpoint to GET a list of cars.
 
-2. @TODO `./src/server.ts/` 
+2. `./src/server.ts/` 
 Add an endpoint to get a specific car.
 
-3. @TODO `./src/server.ts/` 
+3.  `./src/server.ts/` 
 Add an endpoint to post a new car to our list.
 
-4. @TODO `./src/unit-test-examples/units.ts`
+4. `./src/unit-test-examples/units.ts`
 Try creating a method "concat" to concatenate two strings.
 
-5. @TODO `./src/unit-test-examples/units.tests.ts`
+5. `./src/unit-test-examples/units.tests.ts`
 Try creating a new describe block for the "concat" method.
